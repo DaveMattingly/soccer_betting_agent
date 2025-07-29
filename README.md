@@ -6,7 +6,7 @@ The program was built in Python, and requires installation of the stable\_baseli
 
 
 
-Odds data was obtained through www.football-data.co.uk. Data on the strength of teams was obtained using clubelo.com.
+Odds data was obtained through www.football-data.co.uk. Data on the strength of teams was obtained using www.clubelo.com.
 
 
 
